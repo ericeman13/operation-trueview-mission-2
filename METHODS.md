@@ -141,3 +141,9 @@ dip = degrees(arctan((y_row − y_center)/f_px))
 h observer height; R Earth radius (convention only, §5.2); σ extinction coefficient (km⁻¹);
 V visual range (km); k refraction coefficient (≈0.13); R_ray ray curvature radius (km);
 C contrast threshold (0.02); f_px focal length in pixels; D rim dip; t residual tilt.
+
+
+---
+## Change log
+- v1.1.0 — Addendum 1: telemetry recovery, METAR-validated apogee 96,200 ft, corrected predictions; author metadata added.
+- v1.0.0 — Initial publication.
