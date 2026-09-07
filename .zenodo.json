@@ -1,0 +1,9 @@
+{
+  "title": "Operation TrueView Mission 2: Apparent horizon dip from stratospheric balloon altitudes — methods, calibration, and falsification tests",
+  "description": "Methods note and telemetry-recovery addendum for the Mission 2 stratospheric horizon dip audit: water-tube-referenced opposed-camera imaging, extinction-rim (Koschmieder) model, tangent-floor falsification test, uncertainty budget, METAR-validated apogee, and Mission 3 validation plan.",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "license": "CC-BY-4.0",
+  "creators": [{"name": "Eman, Eric", "affiliation": "Operation TrueView"}],
+  "keywords": ["horizon dip", "atmospheric extinction", "Koschmieder", "visual range", "stratospheric balloon", "Beer-Lambert", "falsification", "barometric telemetry"]
+}
